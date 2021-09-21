@@ -1,0 +1,5 @@
+Credentials cache: API:38EC2F3D-466E-4689-91C1-DA7DEF4E0465
+        Principal: atchougo@42LYON.FR
+
+  Issued                Expires               Principal
+Aug 30 17:35:12 2021  Aug 30 18:35:04 2021  krbtgt/42LYON.FR@42LYON.FR
